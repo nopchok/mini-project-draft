@@ -331,12 +331,12 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 - Wikipedia
 - แนวโน้มของตลาดแรงงาน Future of Jobs: https://rta.mi.th/the-warrior-ep21-future-of-jobs/
 
-- งานด้านสิ่งแวดล้อมทักษะที่นายจ้างมักจะ Require คือ 
-  1. การทำ Report (พวก Microsoft/Gworkspace)
-  2. ขับรถ
-  3. ต้องมีใบ กว
-  4. ภาษาอังกฤษ
-  5. อ่านแบบ เขียนแบบ (Drawing เช่น Solid work, Autocad, Sketch Up)
+- งานด้านสิ่งแวดล้อมทักษะที่นายจ้างมักจะ Require เช่น 
+  - การทำ Report (พวก Microsoft/Gworkspace)
+  - ขับรถ
+  - ต้องมีใบ กว
+  - ภาษาอังกฤษ
+  - อ่านแบบ เขียนแบบ (Drawing เช่น Solid work, Autocad, Sketch Up)
 
 
 <a id="challenge"></a>
