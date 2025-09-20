@@ -61,7 +61,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 
 ## Cleansing
 - Drop row ที่ตามกลุ่มส่วนน้อย ที่ไม่ส่งผลกระทบต่อการวิเคราะห์
-  
+
   วิทยาเขตที่มีจำนวนน้อย สาเหตุมาจากข้อมูลอาจจะ Error หรือ ข้อมูลน้อยจริงๆ
 
   ```python
@@ -159,7 +159,7 @@ Data Source: https://web.planning.ku.ac.th/Download/work/work_index.htm
 <table align="center">
   <tr>
     <td align="center">
-      <img src="image.png" width="400"/><br>
+      <img src=".\images\cleansing_01.png" width="400"/><br>
       <em></em>
     </td>
   </tr>
